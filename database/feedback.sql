@@ -15,7 +15,7 @@ SET time_zone = "+00:00";
 --
 CREATE TABLE `feedback` (
   `id`          int(11) NOT NULL PRIMARY KEY AUTO_INCREMENT,
-  `year`        int(4) NOT NULL, c
+  `year`        int(4) NOT NULL, 
   `sem`         text NOT NULL, 
   `date`        text NOT NULL, 
   `branch`      text NOT NULL, 
