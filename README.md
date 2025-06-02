@@ -18,7 +18,7 @@ A student feedback portal built using PHP, SQL and CSS.
 <img alt="" height="300px" src="https://user-images.githubusercontent.com/59930625/146643139-b894f185-ecc4-4bfd-8284-80234a7c4847.png">
 
 #### Admin Data Page
-d
+
 <img alt="" src="https://user-images.githubusercontent.com/59930625/146644782-c1c59291-229d-4440-a46a-f18d08ef3977.png">
 
 ## 💻 Setup
